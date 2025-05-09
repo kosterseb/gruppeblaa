@@ -2,3 +2,6 @@
 gruppeopgave
 
 Neptun er den ottende planet i vores solsystem og den af planeterne, der befinder sig længst væk fra solen. Dens lys er så svagt at den ikke kan ses med det blotte øje og selv i en astronomisk kikkert ses den kun som en lille grønlig prik, som sjældent kan skelnes fra en stjerne. Neptun har de stærkeste vinde i hele solsystemet. Planeten er opkaldt efter Jupiters storebroder; havguden Neptunus (Poseidon). Neptuns astronomiske symbol (♆, Unicode U+2646) er en stiliseret udgave af Poseidons trefork. Planeten kredser om solen en gang hvert 164,8 år.
+
+## Pluto
+Pluto (minor-planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most-massive known object to directly orbit the Sun. It is the largest known trans-Neptunian object by volume by a small margin, but is less massive than Eris. Like other Kuiper belt objects, Pluto is made primarily of ice and rock and is much smaller than the inner planets. Pluto has roughly one-sixth the mass of the Moon and one-third its volume. Originally considered a planet, its classification was changed when astronomers adopted a new definition of planet with new criteria.
